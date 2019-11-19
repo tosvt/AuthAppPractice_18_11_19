@@ -6,4 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".Auth">
 
+    <TextView
+        android:id="@+id/succussEnter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#009688"
+        android:textSize="36sp"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="186dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
